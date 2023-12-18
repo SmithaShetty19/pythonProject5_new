@@ -1,0 +1,1 @@
+pytest -v -s test_login_ddt.py --html="C:\Users\smimp\PycharmProjects\pythonProject5\Reports\sunday.html"
